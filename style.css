@@ -23,7 +23,7 @@ h1 {
     color: #e1414e;
 }
 .section {
-    font-size: 16px;
+    font-size: 25px;
     color: #e1414e;
     margin-bottom: 20px;
 }
@@ -43,7 +43,7 @@ h1 {
     text-decoration: none;
     border-radius: 25px;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .btn:hover{
